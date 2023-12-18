@@ -1,6 +1,6 @@
 {
   "homepage": "https://ashw24.github.io/echo.github.io/",
-  "name": "echoresdb",
+  "name": "ledger",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
