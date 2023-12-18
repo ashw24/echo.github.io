@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/echo.github.io/static/css/main.93771c69.css",
+    "main.js": "/echo.github.io/static/js/main.3df83d47.js",
+    "static/js/787.6ad9821f.chunk.js": "/echo.github.io/static/js/787.6ad9821f.chunk.js",
+    "static/media/DALLE BG.png": "/echo.github.io/static/media/DALLE BG.04727fa29f8c03fd26cc.png",
+    "index.html": "/echo.github.io/index.html",
+    "main.93771c69.css.map": "/echo.github.io/static/css/main.93771c69.css.map",
+    "main.3df83d47.js.map": "/echo.github.io/static/js/main.3df83d47.js.map",
+    "787.6ad9821f.chunk.js.map": "/echo.github.io/static/js/787.6ad9821f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93771c69.css",
+    "static/js/main.3df83d47.js"
+  ]
+}
